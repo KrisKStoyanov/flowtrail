@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Projects/github_origin/flowtrail/flowtrail/Content/gui.spritefont","C:/Projects/github_origin/flowtrail/flowtrail/Content/bin/DesktopGL/Content/gui.xnb","FontDescriptionProcessor","SpriteFontContent",2080,70687,0.2532925
+"C:/Projects/github_origin/flowtrail/flowtrail/Content/player.png","C:/Projects/github_origin/flowtrail/flowtrail/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",663,16469,0.8047673
+"C:/Projects/github_origin/flowtrail/flowtrail/Content/tile.png","C:/Projects/github_origin/flowtrail/flowtrail/Content/bin/DesktopGL/Content/tile.xnb","TextureProcessor","Texture2DContent",615,16469,0.066747

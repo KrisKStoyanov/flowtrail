@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\github_origin\\flowtrail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|c:\\projects\\github_origin\\flowtrail\\flowtrail\\physics2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|solutionrelative:flowtrail\\physics2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|c:\\projects\\github_origin\\flowtrail\\flowtrail\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|solutionrelative:flowtrail\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|c:\\projects\\github_origin\\flowtrail\\flowtrail\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|solutionrelative:flowtrail\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|c:\\projects\\github_origin\\flowtrail\\flowtrail\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|solutionrelative:flowtrail\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|c:\\projects\\github_origin\\flowtrail\\flowtrail\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|solutionrelative:flowtrail\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|c:\\projects\\github_origin\\flowtrail\\flowtrail\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C24A052-3C79-4B81-897C-28D07CA8CAEA}|flowtrail\\flowtrail.csproj|solutionrelative:flowtrail\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Game1.cs",
+              "RelativeDocumentMoniker": "flowtrail\\Game1.cs",
+              "ToolTip": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Game1.cs",
+              "RelativeToolTip": "flowtrail\\Game1.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAawK4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:44:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Player.cs",
+              "RelativeDocumentMoniker": "flowtrail\\Player.cs",
+              "ToolTip": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Player.cs",
+              "RelativeToolTip": "flowtrail\\Player.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:40:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Physics2D.cs",
+              "DocumentMoniker": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Physics2D.cs",
+              "RelativeDocumentMoniker": "flowtrail\\Physics2D.cs",
+              "ToolTip": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Physics2D.cs",
+              "RelativeToolTip": "flowtrail\\Physics2D.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAAANoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:24:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Tile.cs",
+              "RelativeDocumentMoniker": "flowtrail\\Tile.cs",
+              "ToolTip": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Tile.cs",
+              "RelativeToolTip": "flowtrail\\Tile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:59:13.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Camera.cs",
+              "RelativeDocumentMoniker": "flowtrail\\Camera.cs",
+              "ToolTip": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Camera.cs",
+              "RelativeToolTip": "flowtrail\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:36:01.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Button.cs",
+              "RelativeDocumentMoniker": "flowtrail\\Button.cs",
+              "ToolTip": "C:\\Projects\\github_origin\\flowtrail\\flowtrail\\Button.cs",
+              "RelativeToolTip": "flowtrail\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:31:49.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
